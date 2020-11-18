@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/alexandros-mikelis-b4a9521a5/" target="_blank"><img align="left" alt="Alexandros | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<img align="left" alt="Alexandros | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.linkedin.com/in/alexandros-mikelis-b4a9521a5/" target="_blank"><img target="_blank" align="left" alt="Alexandros | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/alex_mikelhs/" target="_blank"><img align="left" target="_blank" alt="Alexandros | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br />
 
