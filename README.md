@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Unity Engine 🤣
 - 💝 Volunteer and Coordinator of Programming Scientific Group in IEEE SB Upatras
 - 🥅 2020-2021 Goals: A finished website and game.
-- ⚡ Fun fact: I love to play guitar and drawing.
+- ⚡ Fun fact: I love playing guitar and drawing.
 
 ### Connect with me:
 
