@@ -1,12 +1,11 @@
 ### Hi there, I'm Alexandros 👋
 
 ## I'm a University Student and Developer!!
-- 👨 Age : 21 years old.
+- 👨 Age : 22 years old.
 - 🏫 I'm Studying Electrical Engineering And Computer Science in University of Patras Greece.
-- 🌱 I’m currently learning reactJS 🤣
-- 💝 Volunteer and Coordinator of Programming Scientific Group in IEEE SB Upatras
-- 🥅 2021-2022 Goals: Job and Intership Opportunities.
-- ⚡ Fun fact: I love playing guitar and drawing.
+- 🌱 I’m currently learning AWS Services 🤣
+- 💝 Volunteer and Coordinator of Programming Scientific Group in IEEE SB Upatras 2020
+- 🥅 2022-2023 Goals: Job and Intership Opportunities.
 
 ### Connect with me:
 
