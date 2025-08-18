@@ -1,11 +1,10 @@
 ### Hi there, I'm Alexandros 👋
 
 ## I'm a University Student and Developer!!
-- 👨 Age : 22 years old.
-- 🏫 I'm Studying Electrical Engineering And Computer Science in University of Patras Greece.
-- 🌱 I’m currently learning AWS Services 🤣
+- 👨 Age : 25 years old.
+- 🏫 I'm an Electrical and Computer Engineer.
+- 🌱 I’m currently learning Integration Patterns with Apache Camel
 - 💝 Volunteer and Coordinator of Programming Scientific Group in IEEE SB Upatras 2020
-- 🥅 2022-2023 Goals: Job and Intership Opportunities.
 
 ### Connect with me:
 
