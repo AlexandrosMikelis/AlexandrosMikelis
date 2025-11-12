@@ -60,24 +60,3 @@ Recently, I’ve been focusing on:
 </a>
 
 <br clear="left"/>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandrosMikelis&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrosMikelis&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### ✨ Fun Fact
-
-When I’m not coding, I’m probably designing **data flow diagrams**, exploring **Greek islands**, or brainstorming new **AI automation ideas** 🌴🤖
-
----
-
-⭐ *“Building systems that connect people, data, and intelligence.”*
