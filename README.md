@@ -1,31 +1,83 @@
-### Hi there, I'm Alexandros 👋
+# 👋 Hi there, I'm Alexandros Mikelis
 
-## I'm a University Student and Developer!!
-- 👨 Age : 25 years old.
-- 🏫 I'm an Electrical and Computer Engineer.
-- 🌱 I’m currently learning Integration Patterns with Apache Camel
-- 💝 Volunteer and Coordinator of Programming Scientific Group in IEEE SB Upatras 2020
+## 💻 Software Engineer 
 
-### Connect with me:
+- 👨 25 years old  
+- 🏫 Electrical and Computer Engineer (University of Patras)  
+- 🌱 Currently learning **Integration Patterns with Apache Camel**  
+- 💝 Volunteer & Coordinator of the Programming Scientific Group @ IEEE SB Upatras (2020)  
+- 🚀 Passionate about **enterprise software**, **graph databases**, **automation**, and **AI-powered systems**
 
-<a href="https://www.linkedin.com/in/alexandros-mikelis-b4a9521a5/" target="_blank"><img target="_blank" align="left" alt="Alexandros | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/alex_mikelhs/" target="_blank"><img align="left" target="_blank" alt="Alexandros | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+---
 
-<br />
+### 🧠 About Me
 
-### Languages and Tools:
+I’m an aspiring backend and integration engineer with hands-on experience in **Java Spring Boot**, **Neo4j**, **Kafka**, and **Angular**.  
+I love designing scalable systems, exploring **Data Flow Diagrams**, and experimenting with **automation platforms** like **n8n** and **Home Assistant**.  
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="MatLab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+Recently, I’ve been focusing on:
+- Building **recommendation systems** using **Neo4j** and **TensorFlow**
+- Exploring **integration design patterns** using **Apache Camel**
+- Designing **AI-driven workflow automation** for SMBs
+- Developing **educational content** on **software architecture** and **communication patterns**
 
-<br />
-<br />
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Camel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 My Interests
+
+- 🧩 **Backend Architecture** – Scalable, modular, and event-driven systems  
+- 🧠 **Machine Learning for Recommendations** – Embeddings, ranking, and personalization  
+- ⚙️ **Integration Engineering** – Message routing, orchestration, and process automation  
+- 🧰 **DevOps** – Dockerized environments and CI/CD pipelines  
+- 🏡 **Smart Automations** – Home Assistant + n8n for real-world workflow optimization  
+
+---
+
+### 🌍 Connect with Me
+
+<a href="https://www.linkedin.com/in/alexandros-mikelis-b4a9521a5/" target="_blank">
+  <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="https://www.instagram.com/alex_mikelhs/" target="_blank">
+  <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br clear="left"/>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandrosMikelis&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrosMikelis&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✨ Fun Fact
+
+When I’m not coding, I’m probably designing **data flow diagrams**, exploring **Greek islands**, or brainstorming new **AI automation ideas** 🌴🤖
+
+---
+
+⭐ *“Building systems that connect people, data, and intelligence.”*
